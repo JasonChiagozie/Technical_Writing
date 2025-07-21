@@ -177,10 +177,3 @@ Run the app and follow the prompts to perform basic arithmetic.
 ## License
 
 MIT License
-
-```
-
----
-
-If you'd like, I can help generate a custom README for your specific project—just share the details.
-```
